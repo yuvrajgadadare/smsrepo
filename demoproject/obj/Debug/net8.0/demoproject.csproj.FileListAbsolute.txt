@@ -32,3 +32,4 @@ E:\DevOps at 10PM\DotNet\demoproject\demoproject\obj\Debug\net8.0\refint\demopro
 E:\DevOps at 10PM\DotNet\demoproject\demoproject\obj\Debug\net8.0\demoproject.pdb
 E:\DevOps at 10PM\DotNet\demoproject\demoproject\obj\Debug\net8.0\demoproject.genruntimeconfig.cache
 E:\DevOps at 10PM\DotNet\demoproject\demoproject\obj\Debug\net8.0\ref\demoproject.dll
+E:\DevOps at 10PM\DotNet\demoproject\demoproject\obj\Debug\net8.0\demoproject.sourcelink.json
