@@ -17,6 +17,7 @@ pipeline {
                     bat 'dotnet build --configuration Release'
             }
         }
+        }
         stage('Test') {
             steps {
                 script {
